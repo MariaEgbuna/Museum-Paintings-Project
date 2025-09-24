@@ -21,7 +21,7 @@ The analysis was performed on a PostgreSQL database. The setup process included 
 
 ### Database Schema
 
-[ER Diagram](ER-Diagram.png)
+[ER Diagram](images/ER-Diagram.png)
 
 The queries operate on the following key tables and their relationships:
 
