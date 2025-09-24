@@ -29,6 +29,7 @@ The queries operate on the following key tables and their relationships:
 * **`museum_hours`**: Stores daily opening and closing times for museums (`museum_id`, `day_of_week`, `opening_time`, `closing_time`).
 * **`product_details`**: Links paintings to pricing information (`work_id`, `size_id`, `sale_price`, `regular_price`).
 * **`subject`**: Lists the subjects of each painting (`work_id`, `subject`).
+* **`canvas_size`**: Details about the paintings canvas
 
 ***
 
