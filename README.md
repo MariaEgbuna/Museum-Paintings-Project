@@ -21,6 +21,8 @@ The analysis was performed on a PostgreSQL database. The setup process included 
 
 ### Database Schema
 
+[!ER Diagram](ER-Diagram)
+
 The queries operate on the following key tables and their relationships:
 
 * **`artist`**: Contains artist details (`artist_id`, `full_name`, `nationality`, `artist_style`, `birth_year`, `death_year`).
