@@ -1,4 +1,3 @@
-# Paintings-Project
 This project involved a full-stack data analysis process, from data cleaning and database setup to querying for insights.
 
 ***
