@@ -1,4 +1,4 @@
-"artist_id","full_name","nationality","artist_style","birth_year","death_year"
+artist_id,full_name,nationality,artist_style,birth_year,death_year
 500,Pierre Auguste Renoir,French,Impressionist,1841,1919
 501,Alexandre Cabanel,French,Classicist,1823,1889
 502,James Ensor,Belgian,Expressionist,1860,1949
@@ -151,7 +151,7 @@
 649,Maurice Utrillo,French,Realist,1883,1955
 650,Édouard Manet,French,Impressionist,1832,1883
 651,Jules Breton,French,Realist,1827,1906
-652,Paul Kane,Canadian,America West,1810,1871
+652,Paul Kane,Canadian,American West,1810,1871
 653,Émile Bernard,French,Symbolist,1868,1941
 654,Lev Feliksovich Lagorio,Russian,Romantic,1827,1905
 655,Charles Cromwell Ingham,Irish,Portraitist,1796,1863

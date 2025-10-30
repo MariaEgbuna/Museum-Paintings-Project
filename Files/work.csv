@@ -1,4 +1,4 @@
-"work_id","work_name","artist_id","art_style","museum_id"
+work_id,work_name,artist_id,art_style,museum_id
 160228,Still Life with Flowers and a Watch,615,Baroque,43
 160236,Still Life with Fruit and a Beaker on a Cock's Foot,615,Baroque,43
 160244,Still Life with Fruit and a Goldfinch,615,Baroque,43
@@ -6801,8 +6801,8 @@
 188382,Flowers in a Vase,842,Baroque,43
 160895,Still Life with Flowers in a Glass Vase,842,Baroque,43
 160709,Still Life with Flowers on a Marble Tabletop,842,Baroque,43
-137992,"14 Juillet au Havre",778,Fauvism,
-138003,"14 Juillet",778,Fauvism,
+137992,14 Juillet au Havre,778,Fauvism,
+138003,14 Juillet,778,Fauvism,
 137485,"Ascot, La Course",778,Fauvism,
 137496,Baccara,778,Fauvism,
 137956,"Composition Marine, Baigneuses et Pêcheur",778,Fauvism,
